@@ -11,3 +11,22 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `SpecGroups` (`SpecGroups.vbp`) | VB6 | WinForms exe | ADO-driven ADSI group membership monitor |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `SpecGroups.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- ADO / OLE DB for the monitored-group list
+- ADSI access to the target WinNT domain
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/SpecGroups`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
